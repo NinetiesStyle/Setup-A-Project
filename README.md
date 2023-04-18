@@ -1,6 +1,6 @@
 # Articles
 
-This repository contains scripts that I use to quickly setup projects either on a local Git server or on GitHub.
+This repository contains a script that I use to quickly setup projects either on a local Git server or on GitHub.
 
 ## Branches
 
